@@ -1,7 +1,7 @@
 ## Private Jet Coin Privacy Policy
 Effective date: April 01, 2018
 
-RELAY SOFTWARE LTD ("us", "we", or "our") operates the https://monetarycoin.org website and the monetarycoin.io application (the "Service").
+Ayiti LTD ("us", "we", or "our") operates the https://www.privatejetcoin.io/
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. 
 
@@ -93,4 +93,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 Contact Us
 If you have any questions about this Privacy Policy, please contact us:
 
-By email: monetarycoin@protonmail.com
+By email: privatejetcoin@protonmail.com
