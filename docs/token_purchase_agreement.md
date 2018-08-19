@@ -1,4 +1,4 @@
-# PRIVATE JET COIN REG D AGREEMENT
+# PRIVATE JET COIN TOKEN PURCHASE AGREEMENT
 
 This Token Purchase Agreement (this “Agreement”) is entered into as of the Effective Date set forth below between the Seller and the Purchaser as identified below.  This Agreement includes and incorporates the below Purchase Terms, as well as Schedule A “Purchase Agreement Terms and Conditions,” Schedule B “Token Functionality,” Schedule C “Risk Factors,” and Schedule D "Token Purchase Summary"  which collectively form a single agreement.
 
@@ -6,17 +6,19 @@ This Agreement may be executed digitally or in counterparts (which may be exchan
 
 ## PURCHASE TERMS
 
-Effective Date: 
+Effective Date:
 
 Token Being Purchased:
 
-MonetaryCoin Tokens distributed to the Purchaser at the end of a period = a * (b/c).
+Tokens distributed to the Purchaser at the end of a period = a * b * c.
 
 a = Total ETH contributed by an authorized participant during the period.
 
-b = Total number of MonetaryCoin Tokens available for distribution in the period.
+b = The USD/ETH echange rate realized by the Seller.
 
-c = Total ETH contributed by all authorized participants during the period.
+c = The Token/USD exchange rate.
+
+For avoidance of doubt, in the case of a cash purchase, Tokens distributed to the Purchaser at the end of a period = USD paid to Seller / dollar price per Token.
 
 See Schedule D - Token Purchase Summary - for further detail.
 
@@ -24,7 +26,7 @@ IN WITNESS WHEREOF, the parties hereto have executed this Agreement on the Signi
 
 
 
-   RELAY SOFTWARE LTD
+   Ayiti LTD (AKA Private Jet Software LTD)
    
    
    
@@ -50,9 +52,9 @@ IN WITNESS WHEREOF, the parties hereto have executed this Agreement on the Signi
 
 THESE PURCHASE AGREEMENT TERMS AND CONDITIONS FORM PART OF THE PURCHASE AGREEMENT, between Relay Software Ltd a Limited Company organized under the laws of the Republic of Seychelles (the “Seller”) and the contributing party (the “Purchaser”).  
 
-WHEREAS the Seller has created or caused to be created the MonetaryCoinERO and MonetaryCoinCHI digital cryptocurrency tokens (the “MERO Tokens” and “MCHI Tokens,” and collectively, the “Tokens”);
+WHEREAS the Seller has created or caused to be created the Private Jet Coin digital cryptocurrency token (the “PJC Token,” collectively the “Tokens”);
 
-WHEREAS the Seller is developing and deploying, or causing to be developed and deployed, a governance and compliance platform for managing the Tokens (the “Platform”), as more fully described in the Seller’s Whitepaper as published from time to time on the Seller’s website https://monetarycoin.org (as supplemented or amended from time to time, the “Whitepaper”);
+WHEREAS the Seller is developing and deploying, or causing to be developed and deployed, a governance and compliance platform for managing the Tokens (the “Platform”), as more fully described in the Seller’s Whitepaper as published from time to time on the Seller’s website https://www.privatejetcoin.io (as supplemented or amended from time to time, the “Whitepaper”);
 
 WHEREAS the Tokens are used in the Platform (i) as a medium of exchange, (ii) a store of value, (iii) a unit of account, or (iv) in connection with other usage as more fully described in the Seller’s Whitepaper.  This collectively constitutes “Token Functionality” as more fully described in the Whitepaper;
 
@@ -184,7 +186,7 @@ PLEASE READ THE FOLLOWING CLAUSE CAREFULLY BECAUSE IT CONTAINS CERTAIN PROVISION
 
 8.2.	No Class Arbitrations, Class Actions or Representative Actions. Any Dispute arising out of or related to this Agreement is personal to the Purchaser and the Seller and will be resolved solely through individual arbitration and will not be brought as a class arbitration, class action or any other type of representative proceeding.  There will be no class arbitration or arbitration in which an individual attempts to resolve a Dispute as a representative of another person or group of persons.  Further, a Dispute cannot be brought as a class or other type of representative action, whether within or outside of arbitration, or on behalf of any other individual or group of individuals. 
 
-8.3.	Notice; Informal Dispute Resolution. Each party will notify the other party in writing of any Dispute within thirty (30) days of the date it arises, so that the parties can attempt in good faith to resolve the Dispute informally.  Notice to the Seller shall be sent by e-mail to monetarycoin@protonmail.com.  Notice to the Purchaser shall be sent to the address set forth on the signature line to this Agreement or to such other address as may be provided to the Seller in writing. If the Purchaser and the Seller cannot agree how to resolve the Dispute within thirty (30) days after the date that the notice is received by the applicable party, then either party may, as appropriate and in accordance with this Section 8, make a request for arbitration or, to the extent specifically provided for in Section 8.1, file a claim in court.
+8.3.	Notice; Informal Dispute Resolution. Each party will notify the other party in writing of any Dispute within thirty (30) days of the date it arises, so that the parties can attempt in good faith to resolve the Dispute informally.  Notice to the Seller shall be sent by e-mail to privatejetcoin@protonmail.com.  Notice to the Purchaser shall be sent to the address set forth on the signature line to this Agreement or to such other address as may be provided to the Seller in writing. If the Purchaser and the Seller cannot agree how to resolve the Dispute within thirty (30) days after the date that the notice is received by the applicable party, then either party may, as appropriate and in accordance with this Section 8, make a request for arbitration or, to the extent specifically provided for in Section 8.1, file a claim in court.
 
 8.4.	Process.  The seat and venue of the arbitration shall be the Republic of Seychelles].  The arbitration will be conducted confidentially by a single arbitrator appointed by the International Chamber of Commerce in accordance with the rules of the International Chamber of Commerce Rules of Arbitration, which are hereby incorporated by reference. 
 
@@ -284,24 +286,24 @@ Holding the Tokens is in no way the equivalent of holding a share of stock in th
 					Amount		Wallet			Token		Token
 			Window	Date	(ETH)		Address			Price		Purchased
          
-MERO						
+PJC						
 	
 	
 						
 --------------------------------------------------------------------------------------------------------------
-MERO Sub-Total 
+PJC Sub-Total 
 
 
 					Purchase	Purchaser		Per	
-					Amount		Wallet			Token		Token
-			Window	Date	(ETH)		Address			Price		Purchased
+					Amount		Bank			Token		Token
+			Window	Date	(USD)		Information		Price		Purchased
          
-MCHI						
+PJC						
 		
 		
 						
 --------------------------------------------------------------------------------------------------------------
-MCHI Sub-Total 
+PJC Sub-Total 
 
 
 						
